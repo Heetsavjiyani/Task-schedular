@@ -1,21 +1,21 @@
 Key Features
 Task Creation
-Add tasks with title, description, due date and time.
+1.Add tasks with title, description, due date and time.
 
 Recurring Reminders
-Choose between one-time, daily, or weekly repetition.
+1.Choose between one-time, daily, or weekly repetition.
 
 Background Monitoring
-A background worker continuously scans for upcoming tasks and triggers notifications.
+1.A background worker continuously scans for upcoming tasks and triggers notifications.
 
 Persistent Storage
-Task data is securely stored in an SQLite database for persistence.
+1.Task data is securely stored in an SQLite database for persistence.
 
 Cross-Platform Alerts
-Desktop pop-ups powered by Plyer, functioning on Windows, macOS, and Linux.
+1.Desktop pop-ups powered by Plyer, functioning on Windows, macOS, and Linux.
 
 Human-Readable IDs
-Tasks are indexed with unique Base62-encoded IDs for clarity and ease of reference.
+1.Tasks are indexed with unique Base62-encoded IDs for clarity and ease of reference.
 
 Tech Stack
 Python 3.12
